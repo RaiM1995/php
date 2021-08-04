@@ -1,0 +1,16 @@
+
+
+.card-header{
+    background:red;
+
+    border: 3px solid #fff; 
+    border-radius: 10px;
+
+
+}
+.card-body{
+background:green;
+
+border: 3px solid #fff; 
+border-radius: 10px;
+}
